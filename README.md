@@ -45,7 +45,7 @@ During this challenge i could learn how to use custom properties and how to use 
 
 ### Useful resources
 
-- [](https://youtu.be/KqFAs5d3Yl8) - This helped me for learning custom properties and how to use grid and flex.
+- [Kevin Powell's video about this challenge](https://youtu.be/KqFAs5d3Yl8) - This helped me for learning custom properties and how to use grid and flex.
 
 ## Author
 
