@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="shortcut icon" href="public/images/favicon-32x32.png" type="image/x-icon">
+
+    <title>Doci Leandro - Result summary component</title>
+</head>
+
+<body>
+    <main>
+        <div class="result-summary | even-columns">
+            <div class="result | section flow">
+                <h1 class="title">Your Result</h1>
+                <p class="circle"><span>76</span> of 100</p>
+                <div class="comment flow" style="--flow-spacer: 1.5rem;">
+                    <h2>Great</h2>
+                    <p>You scored higher than 65% of the people who have taken these tests.</p>
+                </div>
+            </div>
+            <div class="summary | section flow">
+                <h1 class="title">Summary</h1>
+                <div class="summary-list | flow" style="--flow-spacer: 1rem;">
+                    <div class="summary-item | flex-center" id="summary-reaction">
+                        <div class="flex-center">
+                            <img src="public/images/icon-reaction.svg" alt="">
+                            <h2>Reaction</h2>
+                        </div>
+                        <p><span>80</span> / 100</p>
+                    </div>
+                    <div class="summary-item | flex-center" id="summary-memory">
+                        <div class="flex-center">
+                            <img src="public/images/icon-memory.svg" alt="">
+                            <h2>Memory</h2>
+                        </div>
+                        <p><span>92</span> / 100</p>
+                    </div>
+                    <div class="summary-item | flex-center" id="summary-verbal">
+                        <div class="flex-center">
+                            <img src="public/images/icon-verbal.svg" alt="">
+                            <h2>Verbal</h2>
+                        </div>
+                        <p><span>61</span> / 100</p>
+                    </div>
+                    <div class="summary-item | flex-center" id="summary-visual">
+                        <div class="flex-center">
+                            <img src="public/images/icon-visual.svg" alt="">
+                            <h2>Visual</h2>
+                        </div>
+                        <p><span>72</span> / 100</p>
+                    </div>
+                </div>
+                <button>Continue</button>
+            </div>
+        </div>
+
+        <div class="attribution">
+            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"> Frontend Mentor</a>.
+            Coded by <a href="#">Doci Leandro</a>.
+        </div>
+    </main>
+
+    <script type="module" src="src/script.js"></script>
+</body>
+
+</html>
