@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/results-summary-component-using-css--AUjCmXvkV)
-- Live Site URL: [](https://leandrodoci04.github.io/resultsummary.github.io/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-using-css--AUjCmXvkV)
+- Live Site URL: [Website live](https://leandrodoci04.github.io/resultsummary.github.io/)
 
 ## My process
 
